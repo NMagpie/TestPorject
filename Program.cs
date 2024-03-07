@@ -4,4 +4,4 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("New line!");
 
-Console.WriteLine("Line added for a conflict");
+Console.WriteLine("Another line from another clone");
